@@ -1,0 +1,6 @@
+{
+  "name": "عقار فلو | AqarFlow - سيستم تأهيل وحجز مواعيد الوكالات العقارية بالمغرب",
+  "description": "السيستم المتكامل للوكالات العقارية في المغرب: تأهيل الزبائن تلقائياً من أول رسالة واتساب إلى حجز موعد زيارة العقار على أرض الواقع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
